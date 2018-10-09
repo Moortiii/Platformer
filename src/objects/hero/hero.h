@@ -11,7 +11,7 @@ class GameState;
 #include <SFML/Graphics/Texture.hpp>
 #include <SFML/Window/Keyboard.hpp>
 #include <SFML/Graphics.hpp>
-#include "../graphics_object    /GraphicsObject.h"
+#include "../graphics_object/graphics_object.h"
 #include "../../gamestate/gamestate.h"
 
 class Hero : public GraphicsObject {
